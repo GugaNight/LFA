@@ -1,6 +1,7 @@
 # LFA
 repositorio para a disciplina de linguagem formais e automatos
 
+Instruções de como o projeto deve ser testado
 
 Primeiro deve se criar o variavel que será o aumato e dá lá a quantidade "n" de estados
 Ex.: variavel = Automato(n)
