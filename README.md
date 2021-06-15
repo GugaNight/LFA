@@ -1,4 +1,5 @@
 # LFA
+PROJETO DE AUTOMATO
 repositorio para a disciplina de linguagem formais e automatos
 
 Instruções de como o projeto deve ser testado
@@ -16,3 +17,19 @@ variavel.cadastro_estado_final(1)
 
 Por fim para testar as palavras, basta digitar e irá printar True para palavras que o automato aceita e False para rejeitado
 Ex.: print(variavel.aceitar('ab'))
+
+--------------------------------------------------------------------------------------------------------------------------
+PROJETO DE RECONHECEDOR DE PALAVRAS
+
+o arquivo em txt tem que está com os terminais, variaveis e produções especificadas
+exemplo 
+TERMINAL:
+a b c..
+VAR:
+S A B.. 
+PRODU:
+S -> A B..
+
+escrever a palavra a testar entre aspas no,
+palavra = [(' ',)]
+e rodar o programa
